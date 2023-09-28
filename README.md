@@ -13,7 +13,6 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 
-
 Election Results
 --------------------------
 Total Votes: 369711
@@ -24,3 +23,7 @@ Raymon Anthony Doane: 3.000% (11606)
 --------------------------
 Winner: Diana DeGette
 --------------------------
+
+
+
+
